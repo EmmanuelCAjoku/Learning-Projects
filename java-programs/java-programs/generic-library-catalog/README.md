@@ -50,3 +50,8 @@ java LibraryManagementSystem
 
 ## Author
 Emmanuel Chinonyerem Ajoku
+
+## Output Screenshot
+Below is the output of the program running in IntelliJ:
+
+![Output](output-screenshot.png)
